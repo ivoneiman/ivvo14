@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <iframe src="https://giphy.com/embed/HLB0nLA36GCCo6JuB5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-funny-cartoon-coding-HLB0nLA36GCCo6JuB5">via GIPHY</a></p>
+    <img src="https://giphy.com/embed/HLB0nLA36GCCo6JuB5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/scaler-official-funny-cartoon-coding-HLB0nLA36GCCo6JuB5">via GIPHY</a></p>
     <h1>
         Hi , I am Ivo
     </h1>
