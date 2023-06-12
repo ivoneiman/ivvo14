@@ -4,7 +4,7 @@
         Hi , I am Ivo
     </h1>
     <h3> 
-        I am Web designer, i work with Wordpress, and I am studing programming at Universidad Nacional de La Plata.
+        I am Web designer, specialist in Wordpress, and I am studing programming at Universidad Nacional de La Plata.
         Current everyday technologies: HTML / CSS / Bootstrap / Wordpress / Pascal / Assembler
         Interested in new technologies and challenges. I like high level languages, and I enjoy learning new things.
         I hope to gain experience in the field, to then squeeze my skills to the fullest at work.
