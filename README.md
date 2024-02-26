@@ -4,17 +4,18 @@
         Hi , I am Ivo
     </h1>
     <h3> 
-        I am Web designer, specialist in Wordpress, and I am studing programming at Universidad Nacional de La Plata.
-        Current everyday technologies: HTML / CSS / Bootstrap / Wordpress / Pascal / Assembler
+        I am a twenty-year-old Web Designer that specializes in Wordpress and Elementor. I am currently studing programming at Universidad Nacional de La Plata.
+        Current everyday technologies: WordPress / Elementor / Gutenberg / DIVI / XAMPP for local host websites / FileZilla / HTML / CSS / Bootstrap / Java OOP
+        I can also take care of tasks like SEO Optimization, SEO Content Writing and Research.
         Interested in new technologies and challenges. I like high level languages, and I enjoy learning new things.
-        I hope to gain experience in the field, to then squeeze my skills to the fullest at work.
+        I am from Argentina and I have been studying English for 5 years. I am currently at C1 level.
         I also love dogs, they give me peace and companie. I have a great relationship with my pet, Roma.
     </h3>
 </div>
  --- 
  ### About Me :
 
- - Ask me about Pascal, CSS, HTML, ASSEMBLY, Python, Java, Bootstrap, Wordpress
+ - Ask me about WordPress, Elementor, CSS, HTML, ASSEMBLY, Python, Java, Bootstrap // SEO optimization 
 
  <div align="left">
     <h3> Lenguages and Tools:</h3>
