@@ -2,7 +2,7 @@
     <h1>
         Hi , I am Ivo
     </h1>
-        Hi! I'm Ivo, a Web Designer specializing in creating stunning and functional WordPress and Elementor responsive websites. Currently pursuing a Bachelor's degree in Computer Systems at Universidad Nacional de La Plata, I bring a blend of academic knowledge and real-world experience to every project.
+        a Web Designer specializing in creating stunning and functional WordPress and Elementor responsive websites. Currently pursuing a Bachelor's degree in Computer Systems at Universidad Nacional de La Plata, I bring a blend of academic knowledge and real-world experience to every project.
 
 My primary goal in every project is to fully capture and represent your unique ideas, ensuring you feel valued and involved throughout the entire process. With a focus on collaboration and client satisfaction, I work closely with you to tailor a website that not only meets your requirements but also aligns with your budgetary needs.
 
