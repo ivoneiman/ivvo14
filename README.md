@@ -22,10 +22,8 @@ Here are some of the services I offer:
 What sets me apart is my unwavering dedication to understanding your vision and delivering results that exceed your expectations. I pride myself on my attention to detail, quick turnaround times, and commitment to providing exceptional value to each and every client. Additionally, I've successfully completed numerous projects using the free version of Elementor, demonstrating my ability to achieve professional results even with limited resources.
 
 </div>
- --- 
- ### About Me :
 
- - Ask me about WordPress, Elementor, CSS, HTML // SEO optimization 
+ - Ask me about WordPress, Elementor, Shopify and SEO Optimization // SEO optimization 
 
  <div align="left">
     <h3> Lenguages and Tools:</h3>
