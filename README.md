@@ -9,16 +9,16 @@ My primary goal in every project is to fully capture and represent your unique i
 
 Here are some of the services I offer:
 
-✔️Creative Design
-✔️Expert WordPress Installation and Theme Setup
-✔️Theme and Plugin Customization
-✔️Development of Landing Pages, One-Page Portfolios, and Business Sites
-✔️Comprehensive SEO Optimization and Content Writing
-✔️Responsive Designs optimized for all devices
-✔️Modern slider design, Contact Form integration, and Scheduling features
-✔️Unlimited Revisions to ensure your complete satisfaction
-✔️Hosting, Security, and Activity Monitoring
-✔️60 Days of Free Support to address any post-launch needs
+✔️Creative Design <br>
+✔️Expert WordPress Installation and Theme Setup<br>
+✔️Theme and Plugin Customization<br>
+✔️Development of Landing Pages, One-Page Portfolios, and Business Sites<br>
+✔️Comprehensive SEO Optimization and Content Writing<br>
+✔️Responsive Designs optimized for all devices<br>
+✔️Modern slider design, Contact Form integration, and Scheduling features<br>
+✔️Unlimited Revisions to ensure your complete satisfaction<br>
+✔️Hosting, Security, and Activity Monitoring<br>
+✔️60 Days of Free Support to address any post-launch needs<br>
 What sets me apart is my unwavering dedication to understanding your vision and delivering results that exceed your expectations. I pride myself on my attention to detail, quick turnaround times, and commitment to providing exceptional value to each and every client. Additionally, I've successfully completed numerous projects using the free version of Elementor, demonstrating my ability to achieve professional results even with limited resources.
 
     </h3>
