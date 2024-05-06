@@ -15,7 +15,7 @@
  --- 
  ### About Me :
 
- - Ask me about WordPress, Elementor, CSS, HTML, ASSEMBLY, Python, Java, Bootstrap // SEO optimization 
+ - Ask me about WordPress, Elementor, CSS, HTML // SEO optimization 
 
  <div align="left">
     <h3> Lenguages and Tools:</h3>
