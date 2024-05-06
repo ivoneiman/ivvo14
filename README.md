@@ -5,7 +5,7 @@
     </h1>
     <h3> 
         I am a twenty-year-old Web Designer that specializes in Wordpress and Elementor. I am currently studing programming at Universidad Nacional de La Plata.
-        Current everyday technologies: WordPress / Elementor / Gutenberg / DIVI / XAMPP for local host websites / FileZilla / HTML / CSS / Bootstrap / Java OOP
+        Current everyday technologies: WordPress / Elementor / Shopify / XAMPP for local host websites / FileZilla / HTML / CSS / Java OOP
         I can also take care of tasks like SEO Optimization, SEO Content Writing and Research.
         Interested in new technologies and challenges. I like high level languages, and I enjoy learning new things.
         I am from Argentina and I have been studying English for 5 years. I am currently at C1 level.
