@@ -1,5 +1,4 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWYzMWIwZDViMDE5YWQ5MjQ4YzUyZWUwZWI2NDQyOGEyZmQ1MzNhOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HLB0nLA36GCCo6JuB5/giphy.gif" width="200" />
     <h1>
         Hi , I am Ivo
     </h1>
